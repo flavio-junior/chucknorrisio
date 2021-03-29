@@ -10,4 +10,6 @@ O presente projeto foi construido utilizando a arquitetura __MVP__.
 
 Permissões do Android Manisfest:
 
-```<uses-permission android:name="android.permission.INTERNET" />```
+```
+<uses-permission android:name="android.permission.INTERNET" />
+```
