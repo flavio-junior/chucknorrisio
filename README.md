@@ -12,6 +12,4 @@ Informações importantes:
 * Linguagem de programação utilizada ```Java```
 * Ferramenta de desenvolvimento utilizada ```Android Studio```
 * Arquitetura do projeto ```MVP```
-* Permissões do Android Manisfest: ``` 
-* <uses-permission android:name="android.permission.INTERNET" />
-* ```
+* Permissões do Android Manisfest: ```<uses-permission android:name="android.permission.INTERNET" />```
