@@ -6,3 +6,4 @@
  implementation 'com.squareup.retrofit2:retrofit:2.5.0'
  implementation 'com.squareup.retrofit2:converter-gson:2.5.0'
  ```
+O presente projeto foi construido utilizando a arquitetura __MVP__ 
