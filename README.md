@@ -14,6 +14,6 @@ Permissões do Android Manisfest:
 ```
 
 Informações importantes:
-Linguagem de programação utilizada ```Java```
-Ferramenta de desenvolvimento utilizada ```Android Studio```
-Arquitetura do projeto ```MVP```
+*Linguagem de programação utilizada ```Java```
+*Ferramenta de desenvolvimento utilizada ```Android Studio```
+*Arquitetura do projeto ```MVP```
