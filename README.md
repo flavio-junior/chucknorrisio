@@ -21,3 +21,5 @@ Informações importantes:
  Links úteis:
  * [Code Beautify](https://codebeautify.org/)
  * [chucknorris.io](https://api.chucknorris.io/)
+ * [Picasso](https://github.com/square/picasso)
+ * [Groupie](https://github.com/lisawray/groupie)
