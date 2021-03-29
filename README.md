@@ -1,6 +1,6 @@
 # chucknorrisio
 
-
+Aplicativo de __piadas__
 
 Informações importantes:
 * Linguagem de programação utilizada ```Java```
