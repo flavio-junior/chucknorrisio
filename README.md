@@ -13,3 +13,5 @@ Informações importantes:
 * Ferramenta de desenvolvimento utilizada ```Android Studio```
 * Arquitetura do projeto ```MVP```
 * Permissões do Android Manisfest: ```<uses-permission android:name="android.permission.INTERNET" />```
+* Versão do Android ```4.2 (Jelly Bean```
+* API ```21```
