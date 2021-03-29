@@ -17,3 +17,7 @@ Informações importantes:
  implementation 'com.squareup.retrofit2:retrofit:2.5.0'
  implementation 'com.squareup.retrofit2:converter-gson:2.5.0'
  ```
+ 
+ Links úteis:
+ [Code Beautify](https://codebeautify.org/)
+ [chucknorris.io](https://api.chucknorris.io/)
