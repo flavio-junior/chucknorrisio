@@ -19,5 +19,5 @@ Informações importantes:
  ```
  
  Links úteis:
- ```[Code Beautify](https://codebeautify.org/)```
- ```[chucknorris.io](https://api.chucknorris.io/)```
+ * [Code Beautify](https://codebeautify.org/)
+ * [chucknorris.io](https://api.chucknorris.io/)
